@@ -1,0 +1,6 @@
+Python (>= 3.7)
+Numpy (>= 1.18.4)
+Sys (>= 3.10.2)
+Itertools (>= 8.12.0)
+Unittest (>=3.10.4)
+Timetit
